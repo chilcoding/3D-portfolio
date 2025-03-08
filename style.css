@@ -356,8 +356,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 4rem;
-  height: 3rem;
+  width: 5rem;
+  height: 4rem;
   border: var(--border);
   border-radius: 0.3rem;
   font-weight: 600;
@@ -402,7 +402,7 @@ body {
 
 
 .buttons button p {
-  font-size: 30px;
+  font-size: 25px;
   /* padding: 5px 10px; */
   color: var(--main-color);
   border: none;
