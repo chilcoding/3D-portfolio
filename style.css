@@ -356,8 +356,8 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 5rem;
-  height: 4rem;
+  width: 4rem;
+  height: 3rem;
   border: var(--border);
   border-radius: 0.3rem;
   font-weight: 600;
