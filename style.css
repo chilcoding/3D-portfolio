@@ -400,10 +400,8 @@ body {
 }
 
 
-
 .buttons button p {
   font-size: 25px;
-  /* padding: 5px 10px; */
   color: var(--main-color);
   border: none;
   cursor: pointer;
@@ -536,8 +534,6 @@ button p:hover {
 }
 
 
-
-
 #contactForm{
   height: 70vh;
   padding: 10px;
@@ -568,19 +564,6 @@ button p:hover {
   cursor: pointer;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .back-profile {
   position: absolute;
